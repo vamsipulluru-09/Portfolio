@@ -93,7 +93,7 @@ function App() {
       <section id="resume">
         <Heading firstWord="My" secondWord="Resume" />
         <div className="resume-button-container">
-          <a href="public/krishna_vamsi_final1.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="public/img/krishna_vamsi_final1.pdf" target="_blank" rel="noopener noreferrer">
             <button className="resume-button">View My Resume</button>
           </a>
         </div>
